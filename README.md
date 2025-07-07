@@ -45,4 +45,3 @@ The project includes the following machine learning models:
 - Naive Bayes
 - Support Vector Machine 
 
-Translated with DeepL.com (free version)
