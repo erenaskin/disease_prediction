@@ -1,32 +1,32 @@
 # Disease Prediction System
 
-Bu proje, çeşitli makine öğrenmesi algoritmaları kullanarak hastalık tahmini yapan bir web uygulamasıdır.
+This project is a web application for disease prediction using various machine learning algorithms.
 
-## Özellikler
+## Features
 
-- Çoklu makine öğrenmesi modelleri (Random Forest, CatBoost, KNN, Logistic Regression, Naive Bayes, SVM)
-- Web tabanlı kullanıcı arayüzü
-- Semptom bazlı hastalık tahmini
-- Model performans karşılaştırması
+- Multiple machine learning models (Random Forest, CatBoost, KNN, Logistic Regression, Naive Bayes, SVM)
+- Web-based user interface
+- Symptom-based disease prediction
+- Model performance comparison
 
-## Kurulum
+## Installation
 
-1. Projeyi klonlayın:
-```bash
+1. Clone the project:
+``bash
 git clone [repository-url]
 ```
 
-2. Gerekli Python paketlerini yükleyin:
-```bash
+2. Install the required Python packages:
+``bash
 pip install -r requirements.txt
 ```
 
-3. Uygulamayı çalıştırın:
+3. Run the application:
 ```bash
 python app.py
 ```
 
-## Kullanılan Teknolojiler
+## Technologies Used
 
 - Python
 - Flask
@@ -35,12 +35,14 @@ python app.py
 - Pandas
 - NumPy
 
-## Modeller
+## Models
 
-Proje aşağıdaki makine öğrenmesi modellerini içermektedir:
+The project includes the following machine learning models:
 - Random Forest
 - CatBoost
 - K-Nearest Neighbors
 - Logistic Regression
 - Naive Bayes
 - Support Vector Machine 
+
+Translated with DeepL.com (free version)
